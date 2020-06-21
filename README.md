@@ -198,3 +198,8 @@ div class="register">
 
 vue有一个非常好用的功能，可以设置模板，但是我在这个直接引入的环境下不是很会使用（之前软工是在vue-cli环境下使用），最终对于重复的组件还是用的js循环语句生成了。然后beforeCreated这个钩子函数，在这种环境下的行为我也不是很理解，所以直接用onload的了。发送请求我用的axios方法。
 
+### 部署
+
+我使用了windows远程桌面对主机进行了部署
+
+可以查看网页：http://luoqiqi518.xyz/project1
